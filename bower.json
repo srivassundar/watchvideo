@@ -1,0 +1,23 @@
+{
+  "name": "watchvideo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Srivas Sundar <srivas.srihari@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/srivassundar/watchvideo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "react": "^15.3.1",
+    "socket.io-client": "*"
+  }
+}
