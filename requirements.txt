@@ -1,3 +1,4 @@
 Flask
 SQLAlchemy
 pep8
+flask-socketio
